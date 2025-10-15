@@ -20,6 +20,7 @@ CUDA: 12.2
 ## 실행 방법
 ```
 conda create -n carenet
+conda activate carenet
 pip install -r requirements.txt
 ```
 
