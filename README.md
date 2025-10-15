@@ -22,7 +22,8 @@ CUDA: 12.2
 ```
 conda create -n carenet
 conda activate carenet
-
+git clone https://github.com/sujin0707/Carenet.git
+cd Carenet
 pip install -r requirements.txt
 ```
 
