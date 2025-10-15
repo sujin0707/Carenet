@@ -1,0 +1,12 @@
+tqdm
+pandas
+sentencepiece
+transformers
+torch
+gluonnlp
+datasets
+accelerate
+scikit-learn
+optuna
+lime
+googletrans
