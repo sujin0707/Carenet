@@ -13,6 +13,7 @@ CUDA: 12.2
 ### GPU 환경
 ```
 - GPU: NVIDIA A6000 (24GB)
+- NVIDIA Driver Version: 535.161.07
 - CUDA Version: 12.2
 - OS: Ubuntu 20.04 LTS
 ```
@@ -21,6 +22,7 @@ CUDA: 12.2
 ```
 conda create -n carenet
 conda activate carenet
+
 pip install -r requirements.txt
 ```
 
