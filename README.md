@@ -41,9 +41,6 @@ python ./src/infer.py
 ```
 OR
 ```
-git clone https://github.com/sujin0707/Carenet.git
-cd Carenet
-bash ./scripts/setup.sh
 bash ./scripts/data_preprocess.sh
 bash ./scripts/train.sh
 bash ./scripts/infer.py
